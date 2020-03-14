@@ -1,1 +1,1 @@
-# elasticsearch_ik
+# elasticsearch_ik 中文分词
